@@ -1,0 +1,12 @@
+---
+title: "Jingwei_Zhang_lab8"
+author: "Jingwei Zhang"
+date: "April 7, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Test for GitHub
